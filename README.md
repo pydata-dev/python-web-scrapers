@@ -101,6 +101,5 @@ All scrapers export data to `.xlsx` (Excel) with:
 ## 📬 Contact
 
 Open to freelance scraping projects — data extraction, automation, and ETL pipelines.
-
-**Upwork:** *(link)*  
+**Telegram:** [t.me/Galifianaxis](https://t.me/Galifianaxis)
 **Email:** arsenijaleksandrovich09@gmail.com
